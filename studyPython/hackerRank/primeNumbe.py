@@ -1,3 +1,4 @@
+#-*-coding:utf-8-*-
 '''
 Created on 2019. 2. 20.
 
@@ -10,6 +11,7 @@ Created on 2019. 2. 20.
 import sys
 
 T = int(input())
+
 
 Tlst = list()
 
